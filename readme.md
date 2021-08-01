@@ -16,3 +16,5 @@ SF_PHPWebDev
   - [Веб версия домашнего задания](https://skripkalisa.github.io/SF_PHPWebDev_Part2/Mod6/index.html)
 
 [Модуль 7 -  Продвинутый CSS + Тренажёр CSS](Mod7/ "Модуль 7 -  Продвинутый CSS + Тренажёр CSS")
+
+  - [Веб версия домашнего задания](https://skripkalisa.github.io/SF_PHPWebDev_Part2/Mod7/index.html)
