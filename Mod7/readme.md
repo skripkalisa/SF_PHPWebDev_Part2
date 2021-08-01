@@ -17,7 +17,7 @@
 
 * TypeScript -> Babel -> ES5 
 
-* Web-fonts (El+Messiri|Gabriela|Roboto)
+* Web-fonts (Roboto | Revalia)
 
 ## Как открыть/запустить
 
