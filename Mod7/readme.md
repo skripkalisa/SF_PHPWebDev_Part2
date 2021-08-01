@@ -1,6 +1,6 @@
 # Верстка по макету. 
 
-[Макет](https://skripkalisa.github.io/SF_PHPWebDev_Part2/Mod7/Верстка_макета_Module_7.png)
+## [Макет](https://skripkalisa.github.io/SF_PHPWebDev_Part2/Mod7/Верстка_макета_Module_7.png)
 
 Разработан в качестве практического задания на курсе 
 ***SkillFactory***: **PHP-3.0 Профессия Веб-разработчик**
